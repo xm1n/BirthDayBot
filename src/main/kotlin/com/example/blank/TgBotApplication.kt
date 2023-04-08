@@ -4,7 +4,7 @@ import eu.vendeli.tgbot.TelegramBot
 import kotlinx.coroutines.runBlocking
 
 fun main() = runBlocking {
-    val bot = TelegramBot("6295699160:AAGleZI1DwLi88Cv9ROjE-nplE9y643HzHE", "https://xm1nbot.herokuapp.com")
+    val bot = TelegramBot("5867994957:AAGXSVReA7dtV1EwIgz4X0lOzUkMpHbN6LQ", "com.example.blank.controller")
     // And that's all write your own bot from blank.
     // Create new controllers in controller folder or expand old one
 
